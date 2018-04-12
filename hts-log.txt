@@ -1,0 +1,895 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 12 Apr 2018 11:33:39 at http://archive.agribankquan5.com.vn +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://archive.agribankquan5.com.vn -O1 "E:\My Web Sites\agribankquan5.com.vn" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:42:04	Warning: 	Link archive.agribankquan5.com.vn/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+11:43:29	Error: 	"Not Found" (404) at link archive.agribankquan5.com.vn/wp-content/themes/jarvis/skins/skin-1/css/owl.video.play.png (from archive.agribankquan5.com.vn/wp-content/cache/autoptimize/css/autoptimize_4d6b826c79da829e8d7f8bab9c27b239.css)
+11:43:31	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=533
+11:43:31	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=533 to http://archive.agribankquan5.com.vn/diem-giao-dich/
+11:43:31	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=314
+11:43:31	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=314 to http://archive.agribankquan5.com.vn/lien-he/
+11:43:31	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=1344
+11:43:31	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=1344 to http://archive.agribankquan5.com.vn/agribank-atm-2-cam-nhan-atm-theo-cach-rieng-cua-ban/
+11:43:31	Error: 	"Not Found" (404) at link https://agribankquan5.com.vn/wp-content/uploads/2016/09/agribank-atm-2-mkt.jpg (from archive.agribankquan5.com.vn/agribank-atm-2-cam-nhan-atm-theo-cach-rieng-cua-ban/)
+11:43:31	Error: 	"Not Found" (404) at link https://agribankquan5.com.vn/wp-content/uploads/2016/09/agribank-atm-2-itunes.png (from archive.agribankquan5.com.vn/agribank-atm-2-cam-nhan-atm-theo-cach-rieng-cua-ban/)
+11:43:31	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=1341
+11:43:31	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=1341 to http://archive.agribankquan5.com.vn/agribank-danh-20-000-ty-dong-cho-vay-khach-hang-doanh-nghiep-uu-dai-lai-suat-nhan-dip-quoc-khanh-29/
+11:43:31	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=1339
+11:43:31	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=1339 to http://archive.agribankquan5.com.vn/agribank-thanh-toan-lien-tay-nhan-ngay-uu-dai-khi-thanh-toan-cuoc-phi-vinaphone-2/
+11:43:31	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=1336
+11:43:31	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=1336 to http://archive.agribankquan5.com.vn/thanh-toan-lien-tay-nhan-ngay-uu-dai-khi-thanh-toan-cuoc-phi-vinaphone-qua-agribank-07072016/
+11:43:31	Error: 	"Not Found" (404) at link www.agribank.com.vn/Uploads/172/PR%20Cac%20SPDV/CTKM%20Vinaphone/Anh%20300x400.jpg (from archive.agribankquan5.com.vn/thanh-toan-lien-tay-nhan-ngay-uu-dai-khi-thanh-toan-cuoc-phi-vinaphone-qua-agribank-07072016/)
+11:43:31	Warning: 	Retry after error -4 (No data (connection closed)) at link www.agribank.com.vn/Uploads/191/Thang 7-2016/khuyen mai the VISA - Tiep-02.jpg (from archive.agribankquan5.com.vn/hoan-tien-200-000-vnd-cho-chu-agribank-visa/)
+11:43:31	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=1333
+11:43:31	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=1333 to http://archive.agribankquan5.com.vn/hoan-tien-200-000-vnd-cho-chu-agribank-visa/
+11:43:48	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=1331
+11:43:48	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=1331 to http://archive.agribankquan5.com.vn/agribank-thanh-toan-lien-tay-nhan-ngay-uu-dai-khi-thanh-toan-cuoc-phi-vinaphone/
+11:44:20	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=1304
+11:44:20	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=1304 to http://archive.agribankquan5.com.vn/agribank-cung-cap-mien-phi-dich-vu-xac-thuc-thu-3d-secure/
+11:44:20	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=1301
+11:44:20	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=1301 to http://archive.agribankquan5.com.vn/agribank-gui-tien-trieu-trung-tien-ty/
+11:44:20	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=1298
+11:44:20	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=1298 to http://archive.agribankquan5.com.vn/agribank-cat-canh-de-dang-voi-vietnam-airlines-nam-2016/
+11:44:20	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=1295
+11:44:20	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=1295 to http://archive.agribankquan5.com.vn/agribank-dong-gop-tich-cuc-vao-cong-cuoc-xay-dung-nong-thon-moi/
+11:44:20	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=1291
+11:44:20	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=1291 to http://archive.agribankquan5.com.vn/giac-mo-co-lai-suat-cho-vay-da-thap-hon-lai-suat-huy-dong/
+11:44:20	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=1284
+11:44:20	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=1284 to http://archive.agribankquan5.com.vn/co-hoi-duoc-nhan-giai-thuong-chuong-trinh-agribank-visa-mua-sam-tha-ga-nhan-qua-may-man/
+11:44:20	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=1274
+11:44:20	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=1274 to http://archive.agribankquan5.com.vn/dam-bao-nguon-tai-chinh-vung-chac-khi-ve-huu-cung-agribank/
+11:44:20	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=1236
+11:44:20	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=1236 to http://archive.agribankquan5.com.vn/agribank-day-manh-phat-trien-don-vi-chap-nhan-the/
+11:44:20	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=1142
+11:44:20	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=1142 to http://archive.agribankquan5.com.vn/agribank-trien-khai-dich-vu-thanh-toan-hoa-don-tren-internet-banking/
+11:44:20	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=863
+11:44:20	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=863 to http://archive.agribankquan5.com.vn/mua-ban-ngoai-te-giao-ngay/
+11:44:20	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=840
+11:44:20	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=840 to http://archive.agribankquan5.com.vn/chung-chi-dai-han-chung-chi-tien-gui-dai-han-tra-lai-sau-toan-bo/
+11:44:20	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=885
+11:44:20	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=885 to http://archive.agribankquan5.com.vn/chung-chi-dai-han-chung-chi-tien-gui-dai-han-khac-tra-lai-sau-toan-bo/
+11:44:20	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=883
+11:44:20	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=883 to http://archive.agribankquan5.com.vn/chung-chi-tien-gui-ngan-han-tin-phieu-chung-chi-tien-gui-ngan-han-khac-tra-lai-sau-toan-bo/
+11:44:20	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=881
+11:44:20	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=881 to http://archive.agribankquan5.com.vn/ky-phieu-tra-lai-sau/
+11:44:20	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=879
+11:44:20	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=879 to http://archive.agribankquan5.com.vn/ky-phieu-tra-lai-truoc-toan-bo/
+11:44:20	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=876
+11:44:20	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=876 to http://archive.agribankquan5.com.vn/dich-vu-tra-nhan-luong-tu-dong/
+11:44:20	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=873
+11:44:20	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=873 to http://archive.agribankquan5.com.vn/thanh-toan-sec-trong-nuoc/
+11:44:20	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=869
+11:44:20	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=869 to http://archive.agribankquan5.com.vn/cung-ung-sec-trong-nuoc/
+11:44:20	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=860
+11:44:20	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=860 to http://archive.agribankquan5.com.vn/bao-hiem-cho-chu-the-quoc-te/
+11:44:20	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=858
+11:44:20	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=858 to http://archive.agribankquan5.com.vn/bao-hiem-bao-an-tin-dung/
+11:44:20	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=856
+11:44:20	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=856 to http://archive.agribankquan5.com.vn/dich-vu-thanh-toan-hoa-don-cuoc-dien-thoai-tra-sau/
+11:44:20	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=854
+11:44:20	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=854 to http://archive.agribankquan5.com.vn/dich-vu-chuyen-khoan-bang-sms/
+11:44:20	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=852
+11:44:20	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=852 to http://archive.agribankquan5.com.vn/dich-vu-mua-the-game-bang-dien-thoai-di-dong/
+11:44:20	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=850
+11:44:20	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=850 to http://archive.agribankquan5.com.vn/dich-vu-nap-tien-vi-dien-tu-vnmart/
+11:44:20	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=848
+11:44:20	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=848 to http://archive.agribankquan5.com.vn/dich-vu-nap-tien-dien-thoai-di-dong-tra-truoc/
+11:44:20	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=846
+11:44:20	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=846 to http://archive.agribankquan5.com.vn/dich-vu-van-tin-so-du/
+11:44:20	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=828
+11:44:20	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=828 to http://archive.agribankquan5.com.vn/dich-vu-tu-dong-thong-bao-bien-dong-so-du/
+11:44:20	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=1232
+11:44:20	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=1232 to http://archive.agribankquan5.com.vn/1232-2/
+11:44:20	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=1228
+11:44:20	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=1228 to http://archive.agribankquan5.com.vn/ngan-hang-dau-dau-vi-the/
+11:44:20	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=1226
+11:44:20	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=1226 to http://archive.agribankquan5.com.vn/giu-vnd-se-co-loi-hon-usd/
+11:44:20	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=1223
+11:44:20	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=1223 to http://archive.agribankquan5.com.vn/mbke-lai-suat-tien-gui-giam-co-the-la-tien-de-giam-lai-suat-cho-vay-usd/
+11:44:20	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=1221
+11:44:20	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=1221 to http://archive.agribankquan5.com.vn/nhnn-bat-ngo-giam-lai-suat-tien-gui-usd-ve-0nam/
+11:44:20	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=1218
+11:44:20	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=1218 to http://archive.agribankquan5.com.vn/day-manh-thanh-toan-qua-pos/
+11:44:20	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=1216
+11:44:20	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=1216 to http://archive.agribankquan5.com.vn/bom-manh-von-cho-du-an-cong-nghe-cao/
+11:44:20	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=1210
+11:44:20	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=1210 to http://archive.agribankquan5.com.vn/vay-ngan-hang-nhu-the-nao-loi-nhat/
+11:45:33	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=1208
+11:45:33	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=1208 to http://archive.agribankquan5.com.vn/den-3182015-tin-dung-ca-nuoc-tang-1023/
+11:45:33	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=1205
+11:45:33	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=1205 to http://archive.agribankquan5.com.vn/ty-gia-usdvnd-truoc-mot-dot-song-ngan/
+11:45:33	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=1200
+11:45:33	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=1200 to http://archive.agribankquan5.com.vn/ngan-hang-dang-mao-hiem-voi-thanh-khoan/
+11:45:33	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=1183
+11:45:33	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=1183 to http://archive.agribankquan5.com.vn/tong-tai-san-nhieu-ngan-hang-sut-giam-manh/
+11:45:33	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=1166
+11:45:33	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=1166 to http://archive.agribankquan5.com.vn/agribank-danh-20-000-ty-dong-uu-dai-cho-vay-khach-hang-dn/
+11:45:33	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=39
+11:45:33	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=39 to http://archive.agribankquan5.com.vn/phan-khuc-can-ho-cao-cap-co-nguon-hang-moi/
+11:45:33	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=36
+11:45:33	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=36 to http://archive.agribankquan5.com.vn/vingroup-cong-bo-phat-trien-25-trung-tam-thuong-mai-nam-2015/
+11:45:33	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=33
+11:45:33	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=33 to http://archive.agribankquan5.com.vn/kieu-hoi-ve-viet-nam-chu-yeu-mua-vang-va-nha-dat/
+11:45:33	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=29
+11:45:33	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=29 to http://archive.agribankquan5.com.vn/hai-mat-cua-kieu-hoi/
+11:45:33	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=25
+11:45:33	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=25 to http://archive.agribankquan5.com.vn/xoay-du-cach-chong-qua-tai-atm/
+11:45:33	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=18
+11:45:33	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=18 to http://archive.agribankquan5.com.vn/nhip-dap-thi-truong-1002-vn-index-xanh-diem-nhung-thanh-khoan-thap/
+11:45:33	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=46
+11:45:33	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=46 to http://archive.agribankquan5.com.vn/ty-gia/ty-gia-ngay-19-09-2011-2/
+11:45:33	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=1155
+11:45:33	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=1155 to http://archive.agribankquan5.com.vn/lai-suat/lai-suat-ca-nhan-2/
+11:45:33	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=51
+11:45:33	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=51 to http://archive.agribankquan5.com.vn/lai-suat/lai-suat-ca-nhan/
+11:45:35	Error: 	"Error when decompressing" (-1) at link archive.agribankquan5.com.vn/33-chủ-tai-khoản-agribank-duọc-nhạn-01-tỷ-dong/ (from archive.agribankquan5.com.vn/category/tin-tuc/tin-tuc-tong-hop/)
+11:47:33	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=50
+11:47:33	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=50 to http://archive.agribankquan5.com.vn/lai-suat/lai-suat-doanh-nghiep/
+11:47:33	Warning: 	Temporary Redirect for www.agribank.com.vn/Uploads/191/Thang 7-2016/khuyen mai the VISA - Tiep-02.jpg
+11:47:33	Warning: 	Warning moved treated for www.agribank.com.vn/Uploads/191/Thang 7-2016/khuyen mai the VISA - Tiep-02.jpg (real one is www.agribank.com.vn/Uploads/191/Thang%207-2016/khuyen%20mai%20the%20VISA%20-%20Tiep-02.jpg)
+11:47:33	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2011/01/han muc giao dich the ghi no quoc te VISA MasterCard.jpg (from archive.agribankquan5.com.vn/the-ghi-no-quoc-te-agribank-visamastercard/)
+11:47:33	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=809
+11:47:33	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=809 to http://archive.agribankquan5.com.vn/the-ghi-no-quoc-te-agribank-visamastercard/
+11:47:59	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=1159
+11:47:59	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=1159 to http://archive.agribankquan5.com.vn/agribank-atm-ung-dung-tra-cuu-may-atm-tren-ios-va-android/
+11:47:59	Error: 	"Not Found" (404) at link https://agribankquan5.com.vn/wp-content/uploads/2015/07/4.png (from archive.agribankquan5.com.vn/agribank-atm-ung-dung-tra-cuu-may-atm-tren-ios-va-android/)
+11:47:59	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=1251
+11:47:59	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=1251 to http://archive.agribankquan5.com.vn/agribank-nam-2016-chat-chiu-thanh-tuu-vung-buoc-tuong-lai/
+11:48:17	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=744
+11:48:17	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=744 to http://archive.agribankquan5.com.vn/gui-nhieu-noi-rut-nhieu-noi/
+11:48:17	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=738
+11:48:17	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=738 to http://archive.agribankquan5.com.vn/tien-gui-tien-gui-thanh-toan-khong-ky-han/
+11:48:17	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=686
+11:48:17	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=686 to http://archive.agribankquan5.com.vn/tien-gui-tiet-kiem-co-ky-han-rut-goc-linh-hoat/
+11:48:17	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=676
+11:48:17	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=676 to http://archive.agribankquan5.com.vn/tiet-kiem-gui-gop-hang-thang/
+11:48:17	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=664
+11:48:17	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=664 to http://archive.agribankquan5.com.vn/tiet-kiem-co-ky-han-tra-lai-sau-dinh-ky/
+11:48:17	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=661
+11:48:17	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=661 to http://archive.agribankquan5.com.vn/tien-gui-tiet-kiem-tra-lai-truoc/
+11:48:17	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=655
+11:48:17	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=655 to http://archive.agribankquan5.com.vn/tiet-kiem-co-ky-han-tra-lai-sau/
+11:48:17	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=838
+11:48:17	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=838 to http://archive.agribankquan5.com.vn/ky-phieu-tra-lai-sau-toan-bo/
+11:48:17	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=835
+11:48:17	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=835 to http://archive.agribankquan5.com.vn/giay-to-co-gia-dai-han/
+11:48:17	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=832
+11:48:17	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=832 to http://archive.agribankquan5.com.vn/giay-to-co-gia-ngan-han/
+11:48:17	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=768
+11:48:17	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=768 to http://archive.agribankquan5.com.vn/cho-vay-tra-gop/
+11:48:17	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=764
+11:48:17	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=764 to http://archive.agribankquan5.com.vn/cho-vay-phat-hanh-the-tin-dung/
+11:48:17	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=759
+11:48:17	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=759 to http://archive.agribankquan5.com.vn/cho-vay-duoi-hinh-thuc-thau-chi-tai-khoan/
+11:48:17	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=756
+11:48:17	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=756 to http://archive.agribankquan5.com.vn/cho-vay-cam-co-bang-giay-to-co-gia/
+11:48:17	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=751
+11:48:17	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=751 to http://archive.agribankquan5.com.vn/cho-vay-xay-dung-moi-sua-chua-cai-tao-nang-cap-mua-nha-o-doi-voi-dan-cu/
+11:48:17	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=746
+11:48:17	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=746 to http://archive.agribankquan5.com.vn/cho-vay-mua-sam-hang-tieu-dung-vat-dung-gia-dinh/
+11:48:17	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=646
+11:48:17	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=646 to http://archive.agribankquan5.com.vn/chiet-khau-giay-to-co-gia/
+11:48:17	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=773
+11:48:17	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=773 to http://archive.agribankquan5.com.vn/thanh-toan-hoa-don-tien-nuoc/
+11:48:17	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=770
+11:48:17	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=770 to http://archive.agribankquan5.com.vn/dich-vu-thanh-toan-hoa-don-tien-dien-2/
+11:48:17	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=783
+11:48:17	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=783 to http://archive.agribankquan5.com.vn/dich-vu-nhan-va-chi-tra-kieu-hoi-qua-he-thong-ngan-hang/
+11:48:17	Error: 	"Not Found" (404) at link archive.agribankquan5.com.vn/dich-vu-nhan-va-chi-tra-kieu-hoi-qua-he-thong-ngan-hang/%5CMy Documents%5CKieu hoi edit%5Cbicsearch.faces.htm (from archive.agribankquan5.com.vn/dich-vu-nhan-va-chi-tra-kieu-hoi-qua-he-thong-ngan-hang/)
+11:48:17	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=780
+11:48:17	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=780 to http://archive.agribankquan5.com.vn/dich-vu-chuyen-tien-ra-nuoc-ngoai-qua-western-union/
+11:48:17	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=777
+11:48:17	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=777 to http://archive.agribankquan5.com.vn/dich-vu-chuyen-tien-ra-nuoc-ngoai/
+11:48:17	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=821
+11:48:17	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=821 to http://archive.agribankquan5.com.vn/the-lien-ket-sinh-vien/
+11:48:17	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=818
+11:48:17	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=818 to http://archive.agribankquan5.com.vn/the-lap-nghiep/
+11:48:17	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2011/01/han muc tin dung the tin dung quoc te ca nhan.jpg (from archive.agribankquan5.com.vn/the-tin-dung-quoc-te-agribank-visamastercard/)
+11:48:17	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=815
+11:48:17	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=815 to http://archive.agribankquan5.com.vn/the-tin-dung-quoc-te-agribank-visamastercard/
+11:48:17	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2011/01/han muc giao dich the Success.jpg (from archive.agribankquan5.com.vn/the-ghi-no-noi-dia-success/)
+11:48:17	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=806
+11:48:17	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=806 to http://archive.agribankquan5.com.vn/the-ghi-no-noi-dia-success/
+11:48:17	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=824
+11:48:17	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=824 to http://archive.agribankquan5.com.vn/don-vi-chap-nhan-the-2/
+11:48:19	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=696
+11:48:19	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=696 to http://archive.agribankquan5.com.vn/dich-vu-thong-tin-tai-khoan/
+11:48:19	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=690
+11:48:19	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=690 to http://archive.agribankquan5.com.vn/tien-gui-thanh-toan/
+11:48:19	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=702
+11:48:19	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=702 to http://archive.agribankquan5.com.vn/tien-gui-co-ky-han-tra-lai-dinh-ky/
+11:48:19	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=700
+11:48:19	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=700 to http://archive.agribankquan5.com.vn/tien-gui-co-ky-han-tra-lai-sau/
+11:48:19	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=735
+11:48:19	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=735 to http://archive.agribankquan5.com.vn/cho-vay-du-an-co-so-ha-tang/
+11:48:19	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=731
+11:48:19	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=731 to http://archive.agribankquan5.com.vn/cho-vay-uu-dai-xuat-khau/
+11:48:19	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=727
+11:48:19	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=727 to http://archive.agribankquan5.com.vn/cho-vay-theo-han-muc-tin-dung/
+11:48:19	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=725
+11:48:19	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=725 to http://archive.agribankquan5.com.vn/cho-vay-von-ngan-hantung-lan/
+11:48:19	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=707
+11:48:19	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=707 to http://archive.agribankquan5.com.vn/bao-lanh-thuc-hien-hop-dong/
+11:48:19	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=704
+11:48:19	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=704 to http://archive.agribankquan5.com.vn/bao-lanh-thanh-toan/
+11:48:19	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=709
+11:48:19	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=709 to http://archive.agribankquan5.com.vn/bao-thanh-toan-trong-nuoc/
+11:48:19	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=713
+11:48:19	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=713 to http://archive.agribankquan5.com.vn/dich-vu-thanh-toan-hoa-don-tien-dien/
+11:48:19	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=711
+11:48:19	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=711 to http://archive.agribankquan5.com.vn/dich-vu-thu-ngan-sach-nha-nuoc/
+11:48:19	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=799
+11:48:19	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=799 to http://archive.agribankquan5.com.vn/dich-vu-thanh-toan-lc/
+11:48:19	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=795
+11:48:19	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=795 to http://archive.agribankquan5.com.vn/dich-vu-phat-hanh-thu-tin-dung-chung-tu/
+11:48:19	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=792
+11:48:19	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=792 to http://archive.agribankquan5.com.vn/dich-vu-chuyen-tien-di-thanh-toan-voi-nuoc-ngoai/
+11:48:19	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=790
+11:48:19	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=790 to http://archive.agribankquan5.com.vn/dich-vu-chuyen-tien-den/
+11:48:19	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=804
+11:48:19	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=804 to http://archive.agribankquan5.com.vn/mua-ban-ngoai-te-ky-han-forward/
+11:48:19	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=801
+11:48:19	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=801 to http://archive.agribankquan5.com.vn/mua-ban-ngoai-te-giao-ngay-spot/
+11:48:19	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=720
+11:48:19	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=720 to http://archive.agribankquan5.com.vn/don-vi-chap-nhan-the/
+11:48:19	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=716
+11:48:19	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=716 to http://archive.agribankquan5.com.vn/the-tin-dung-quoc-te-agribank-mastercard/
+11:48:48	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=1269
+11:48:48	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=1269 to http://archive.agribankquan5.com.vn/agribank-nang-buoc-doanh-nghiep/
+11:48:48	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=1267
+11:48:48	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=1267 to http://archive.agribankquan5.com.vn/agribank-khang-dinh-vai-tro-top-dau-trong-nganh-ngan-hang-19022016/
+11:48:48	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=1262
+11:48:48	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=1262 to http://archive.agribankquan5.com.vn/don-xuan-2016-cung-the-chip-agribank/
+11:48:48	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=1260
+11:48:48	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=1260 to http://archive.agribankquan5.com.vn/nhan-tien-trung-so-tiet-kiem-voi-dich-vu-kieu-hoi-cua-agribank/
+11:48:48	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=1257
+11:48:48	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=1257 to http://archive.agribankquan5.com.vn/agribank-top-10-doanh-nghiep-tin-nhiem-nhat-viet-nam-cung-he-thong-nganh-kinh-te-nam-2015/
+11:48:48	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=1254
+11:48:48	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=1254 to http://archive.agribankquan5.com.vn/agribank-ty-le-no-xau-con-201/
+11:48:48	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=1247
+11:48:48	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=1247 to http://archive.agribankquan5.com.vn/agribank-ra-mat-the-tin-dung-cong-nghe-chip-theo-chuan-emv/
+11:48:48	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=1245
+11:48:48	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=1245 to http://archive.agribankquan5.com.vn/gui-dola-vao-ngan-hang-khong-con-duoc-huong-lai/
+11:48:55	Warning: 	Temporary Redirect for www.agribank.com.vn/Uploads/191/Thang%207-2016/khuyen%20mai%20the%20VISA%20-%20Tiep-02.jpg
+11:48:55	Warning: 	Redirected link is identical because of 'URL Hack' option: www.agribank.com.vn/Uploads/191/Thang%207-2016/khuyen%20mai%20the%20VISA%20-%20Tiep-02.jpg and www.agribank.com.vn/Uploads/191/Thang%207-2016/khuyen%20mai%20the%20VISA%20-%20Tiep-02.jpg
+11:48:55	Warning: 	Can not bear crazy server (Temporary Redirect) for www.agribank.com.vn/Uploads/191/Thang%207-2016/khuyen%20mai%20the%20VISA%20-%20Tiep-02.jpg
+11:49:13	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=1278
+11:49:13	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=1278 to http://archive.agribankquan5.com.vn/du-no-tam-nong-se-tiep-tuc-tang/
+11:49:13	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=1272
+11:49:13	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=1272 to http://archive.agribankquan5.com.vn/agribank-hon-9000-ty-dong-duoc-huy-dong-trong-gan-1-thang/
+11:49:13	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=1196
+11:49:13	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=1196 to http://archive.agribankquan5.com.vn/atm-dau-tien-co-mat-tai-huyen-dao-ly-son/
+11:49:13	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=1193
+11:49:13	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=1193 to http://archive.agribankquan5.com.vn/pho-thong-doc-nhnn-ty-gia-se-khong-anh-huong-den-muc-tieu-lam-phat/
+11:49:13	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=45
+11:49:13	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=45 to http://archive.agribankquan5.com.vn/ty-gia/ty-gia-ngay-19-09-2011/
+11:49:31	Error: 	"Error when decompressing" (-1) at link archive.agribankquan5.com.vn/hội-thao-lần-thứ-iv-cong-doan-ngan-hang-việt-nam-agribank-dạt-giải-nhất-toan-doan/ (from archive.agribankquan5.com.vn/category/tin-tuc/tin-tuc-tong-hop/page/3/)
+11:49:31	Error: 	"Error when decompressing" (-1) at link archive.agribankquan5.com.vn/agribank-hỗ-trợ-vốn-vay-cho-khach-hang-mua-xe-o-to-phục-vụ-nong-nghiệp/ (from archive.agribankquan5.com.vn/category/tin-tuc/tin-tuc-tong-hop/page/3/)
+11:49:41	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=1180
+11:49:41	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=1180 to http://archive.agribankquan5.com.vn/1180-2/
+11:49:41	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2011/06/xuhuong8.6_1307521266.jpg (from archive.agribankquan5.com.vn/lai-suat-giam-dong-tien-nong-dich-chuyen/)
+11:49:41	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2011/06/xuhuong8.6_13075212711_1307521271.jpg (from archive.agribankquan5.com.vn/lai-suat-giam-dong-tien-nong-dich-chuyen/)
+11:49:41	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=938
+11:49:41	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=938 to http://archive.agribankquan5.com.vn/lai-suat-giam-dong-tien-nong-dich-chuyen/
+11:49:41	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=609
+11:49:41	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=609 to http://archive.agribankquan5.com.vn/hau-giang-gia-mia-tang-gap-doi-so-voi-nam-ngoai/
+11:51:02	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=1242
+11:51:02	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=1242 to http://archive.agribankquan5.com.vn/giai-ma-buc-tranh-loi-nhuan-ngan-hang-9-thang-dau-nam/
+11:51:02	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=1240
+11:51:02	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=1240 to http://archive.agribankquan5.com.vn/tai-chinh-ngan-hang-truoc-tpp-doi-mat-voi-canh-tranh/
+11:51:02	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2010/09/Ky-phieu-Du-Thuong-2010-232x450.jpg (from archive.agribankquan5.com.vn/agribank-phat-hanh-ky-phieu-du-thuong-nam-2010/)
+11:51:02	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=613
+11:51:02	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=613 to http://archive.agribankquan5.com.vn/agribank-phat-hanh-ky-phieu-du-thuong-nam-2010/
+11:51:02	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=604
+11:51:02	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=604 to http://archive.agribankquan5.com.vn/nhieu-loai-nong-san-xuat-khau-se-thuan-loi-ve-gia/
+11:51:02	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=602
+11:51:02	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=602 to http://archive.agribankquan5.com.vn/agribank-ap-dung-bieu-phi-dich-vu-the-moi-tu-1592010/
+11:51:02	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=598
+11:51:02	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=598 to http://archive.agribankquan5.com.vn/ha-noi-trien-khai-360-diem-ban-hang-binh-on-gia/
+11:51:02	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=595
+11:51:02	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=595 to http://archive.agribankquan5.com.vn/chinh-phu-cpi-nam-2011-tang-khoang-7/
+11:51:02	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=577
+11:51:02	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=577 to http://archive.agribankquan5.com.vn/mot-so-cau-hoi-dap-thuong-gap-phan-2/
+11:51:02	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=575
+11:51:02	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=575 to http://archive.agribankquan5.com.vn/mot-so-cau-hoi-dap-thuong-gap-phan-1/
+11:51:02	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=572
+11:51:02	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=572 to http://archive.agribankquan5.com.vn/mo-rong-xay-dung-thuong-hieu-cam-sanh-tra-vinh/
+11:52:43	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=22
+11:52:43	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=22 to http://archive.agribankquan5.com.vn/goi-50-000-ty-dong-cho-bat-dong-san-so-vet-xe-do/
+11:52:47	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=1178
+11:52:47	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=1178 to http://archive.agribankquan5.com.vn/agribank-ra-mat-ung-dung-agribank-e-mobile-banking/
+11:52:47	Error: 	"Not Found" (404) at link www.agribank.com.vn/Uploads/172/PR%20Cac%20SPDV/E%20Mobile%20Banking/Anh%20400x300.jpg (from archive.agribankquan5.com.vn/agribank-ra-mat-ung-dung-agribank-e-mobile-banking/)
+11:52:47	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=1170
+11:52:47	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=1170 to http://archive.agribankquan5.com.vn/agribank-danh-nhieu-uu-dai-cho-chu/
+11:52:47	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=607
+11:52:47	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=607 to http://archive.agribankquan5.com.vn/gia-gao-xuat-khau-vn-da-bang-gia-gao-thai-lan/
+11:53:07	Error: 	"Error when decompressing" (-1) at link archive.agribankquan5.com.vn/chia-khoa-của-lãi-suat/ (from archive.agribankquan5.com.vn/category/tin-tuc/tin-tuc-tong-hop/page/4/)
+11:53:09	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2010/09/120910_thuong hieu ck uy tin_400.jpg (from archive.agribankquan5.com.vn/le-trao-giai-thuong-hieu-chung-khoan-uy-tin-2010-agriseco-lan-thu-3-lien-tiep-lot-vao-danh-sach-cac-doanh-nghiep-niem-yet-hang-dau/)
+11:53:09	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2010/09/120910_thuong hieu ck uy tin_Mr Hau.jpg (from archive.agribankquan5.com.vn/le-trao-giai-thuong-hieu-chung-khoan-uy-tin-2010-agriseco-lan-thu-3-lien-tiep-lot-vao-danh-sach-cac-doanh-nghiep-niem-yet-hang-dau/)
+11:53:09	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=587
+11:53:09	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=587 to http://archive.agribankquan5.com.vn/le-trao-giai-thuong-hieu-chung-khoan-uy-tin-2010-agriseco-lan-thu-3-lien-tiep-lot-vao-danh-sach-cac-doanh-nghiep-niem-yet-hang-dau/
+11:53:09	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2010/09/0810_Nghe An trien khai ND 41_Mr Tan.jpg (from archive.agribankquan5.com.vn/agribank-trien-khai-nd-41-va-phan-tich-tai-chinh-7-thang-dau-nam-2010-cac-don-vi-khu-vuc-bac-mien-trung/)
+11:53:09	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=582
+11:53:09	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=582 to http://archive.agribankquan5.com.vn/agribank-trien-khai-nd-41-va-phan-tich-tai-chinh-7-thang-dau-nam-2010-cac-don-vi-khu-vuc-bac-mien-trung/
+11:53:09	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2010/09/310810_ban giao truong THCS_Hung Yen.jpg (from archive.agribankquan5.com.vn/agribank-ban-giao-cong-trinh-truong-thcs-xa-doan-dao-huyen-phu-cu-tinh-hung-yen/)
+11:53:09	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2010/09/310810_ban giao truong THCS_Hung Yen_Mr Tuan.jpg (from archive.agribankquan5.com.vn/agribank-ban-giao-cong-trinh-truong-thcs-xa-doan-dao-huyen-phu-cu-tinh-hung-yen/)
+11:53:09	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=566
+11:53:09	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=566 to http://archive.agribankquan5.com.vn/agribank-ban-giao-cong-trinh-truong-thcs-xa-doan-dao-huyen-phu-cu-tinh-hung-yen/
+11:53:10	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=516
+11:53:10	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=516 to http://archive.agribankquan5.com.vn/tin-dung-bat-dau-tang-truong-manh/
+11:53:10	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=514
+11:53:10	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=514 to http://archive.agribankquan5.com.vn/co-the-se-ap-dung-ls-thoa-thuan-cho-vay-ngan-han-va-go-bo-tran-ls-huy-dong-105/
+11:53:10	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=506
+11:53:10	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=506 to http://archive.agribankquan5.com.vn/gia-vang-giam-mai-luc-yeu/
+11:53:10	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=503
+11:53:10	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=503 to http://archive.agribankquan5.com.vn/chung-khoan-giam-manh-vi-lo-gia-tang/
+11:53:20	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=569
+11:53:20	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=569 to http://archive.agribankquan5.com.vn/khanh-thanh-he-thong-nha-o-cho-hoc-sinh-noi-tru-tai-huyen-tua-chua-va-muong-ang/
+11:53:20	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=562
+11:53:20	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=562 to http://archive.agribankquan5.com.vn/xuat-khau-lac-quan-nhung-nhap-sieu-van-con-lon/
+11:53:20	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2010/07/tru-so-agribank-quan5-moi-389x450.jpg (from archive.agribankquan5.com.vn/thong-bao-chuyen-tru-so-lam-viec-chi-nhanh-nhno-ptnt-quan-5/)
+11:53:20	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2010/07/diadiem_truso_moi_quan5-450x450.jpg (from archive.agribankquan5.com.vn/thong-bao-chuyen-tru-so-lam-viec-chi-nhanh-nhno-ptnt-quan-5/)
+11:53:20	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=543
+11:53:20	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=543 to http://archive.agribankquan5.com.vn/thong-bao-chuyen-tru-so-lam-viec-chi-nhanh-nhno-ptnt-quan-5/
+11:53:20	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2010/06/chu-the-5-trieu1.jpg (from archive.agribankquan5.com.vn/agribank-chao-don-chu-the-thu-5-trieu/)
+11:53:20	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=536
+11:53:20	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=536 to http://archive.agribankquan5.com.vn/agribank-chao-don-chu-the-thu-5-trieu/
+11:53:20	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2010/04/ThangLong-HaNoi-1000nam_300x200.jpg (from archive.agribankquan5.com.vn/cung-agribank-mung-dai-le-1000-nam-thang-long-ha-noi/)
+11:53:20	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=524
+11:53:20	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=524 to http://archive.agribankquan5.com.vn/cung-agribank-mung-dai-le-1000-nam-thang-long-ha-noi/
+11:53:20	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2010/02/QuaTangDauXuan2010-450x337.jpg (from archive.agribankquan5.com.vn/khuyen-mai-li-xi-cho-khach-hang-giao-dich-ngay-dau-nam-2010-chi-co-tai-chi-nhanh-quan-5/)
+11:53:20	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=499
+11:53:20	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=499 to http://archive.agribankquan5.com.vn/khuyen-mai-li-xi-cho-khach-hang-giao-dich-ngay-dau-nam-2010-chi-co-tai-chi-nhanh-quan-5/
+11:53:20	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2010/02/happy-new-year-2010-450x337.jpg (from archive.agribankquan5.com.vn/thong-bao-vv-nghi-tet-nguyen-dan-canh-dan-2010/)
+11:53:20	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=489
+11:53:20	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=489 to http://archive.agribankquan5.com.vn/thong-bao-vv-nghi-tet-nguyen-dan-canh-dan-2010/
+11:53:20	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=937
+11:53:20	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=937 to http://archive.agribankquan5.com.vn/chao-mung-den-voi-website-agribank-quan-5/
+11:53:20	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/12/0020-450x299.jpg (from archive.agribankquan5.com.vn/khai-truong-diem-nhan-lenh-chung-khoan-tai-phong-giao-dich-so-1/)
+11:53:20	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/12/0011-450x299.jpg (from archive.agribankquan5.com.vn/khai-truong-diem-nhan-lenh-chung-khoan-tai-phong-giao-dich-so-1/)
+11:53:20	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/12/0034-450x299.jpg (from archive.agribankquan5.com.vn/khai-truong-diem-nhan-lenh-chung-khoan-tai-phong-giao-dich-so-1/)
+11:53:20	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/12/0037-450x299.jpg (from archive.agribankquan5.com.vn/khai-truong-diem-nhan-lenh-chung-khoan-tai-phong-giao-dich-so-1/)
+11:53:20	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/12/0053-450x299.jpg (from archive.agribankquan5.com.vn/khai-truong-diem-nhan-lenh-chung-khoan-tai-phong-giao-dich-so-1/)
+11:53:20	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/12/0059-450x299.jpg (from archive.agribankquan5.com.vn/khai-truong-diem-nhan-lenh-chung-khoan-tai-phong-giao-dich-so-1/)
+11:53:20	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/12/0083-450x299.jpg (from archive.agribankquan5.com.vn/khai-truong-diem-nhan-lenh-chung-khoan-tai-phong-giao-dich-so-1/)
+11:53:20	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/12/0090-450x299.jpg (from archive.agribankquan5.com.vn/khai-truong-diem-nhan-lenh-chung-khoan-tai-phong-giao-dich-so-1/)
+11:53:20	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/12/0160-450x299.jpg (from archive.agribankquan5.com.vn/khai-truong-diem-nhan-lenh-chung-khoan-tai-phong-giao-dich-so-1/)
+11:53:20	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/12/0173-450x299.jpg (from archive.agribankquan5.com.vn/khai-truong-diem-nhan-lenh-chung-khoan-tai-phong-giao-dich-so-1/)
+11:53:20	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=219
+11:53:20	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=219 to http://archive.agribankquan5.com.vn/khai-truong-diem-nhan-lenh-chung-khoan-tai-phong-giao-dich-so-1/
+11:53:20	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/09/ThayDoiKyhanVaLaiSuatKyPhieuNganHan-308x400.jpg (from archive.agribankquan5.com.vn/thay-doi-lai-suat-va-ky-han-cua-ky-phieu-ghi-danh-ngan-han/)
+11:53:20	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=149
+11:53:20	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=149 to http://archive.agribankquan5.com.vn/thay-doi-lai-suat-va-ky-han-cua-ky-phieu-ghi-danh-ngan-han/
+11:53:23	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2010/02/vang204.jpg (from archive.agribankquan5.com.vn/27-tet-vang-tang-them-700-nghin-dongluong-len-2625-trieu-dongluong/)
+11:53:23	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=486
+11:53:23	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=486 to http://archive.agribankquan5.com.vn/27-tet-vang-tang-them-700-nghin-dongluong-len-2625-trieu-dongluong/
+11:53:41	Error: 	"Error when decompressing" (-1) at link archive.agribankquan5.com.vn/chuyẹn-luong-thuỏng-của-gioi-tai-chinh/ (from archive.agribankquan5.com.vn/category/tin-tuc/tin-tuc-tong-hop/page/5/)
+11:53:43	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2010/02/tien-le.jpg (from archive.agribankquan5.com.vn/dat-khach-doi-tien/)
+11:53:43	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=484
+11:53:43	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=484 to http://archive.agribankquan5.com.vn/dat-khach-doi-tien/
+11:53:43	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=482
+11:53:43	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=482 to http://archive.agribankquan5.com.vn/quy-dinh-moi-ve-viec-ho-tro-lai-suat-doi-voi-khach-hang-vay-co-so-du-tai-khoan-tien-gui/
+11:53:43	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2010/02/VANGS.jpg (from archive.agribankquan5.com.vn/chieu-902-chen-chan-mua-vang-cuoi-nam/)
+11:53:43	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=480
+11:53:43	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=480 to http://archive.agribankquan5.com.vn/chieu-902-chen-chan-mua-vang-cuoi-nam/
+11:53:43	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2010/02/NGUYEN-VAN-GIAU.jpg (from archive.agribankquan5.com.vn/chinh-sach-lai-suat-ty-gia-duoi-goc-nhin-thong-doc/)
+11:53:43	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=473
+11:53:43	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=473 to http://archive.agribankquan5.com.vn/chinh-sach-lai-suat-ty-gia-duoi-goc-nhin-thong-doc/
+11:53:43	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=476
+11:53:43	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=476 to http://archive.agribankquan5.com.vn/nhieu-san-vang-dong-cua-som/
+11:53:43	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2010/02/dongvon.jpg (from archive.agribankquan5.com.vn/huy-dong-von-cua-ngan-hang-thang-1-gan-nhu-khong-tang/)
+11:53:43	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=469
+11:53:43	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=469 to http://archive.agribankquan5.com.vn/huy-dong-von-cua-ngan-hang-thang-1-gan-nhu-khong-tang/
+11:53:43	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2010/02/tui-tien-2.jpg (from archive.agribankquan5.com.vn/bot-cang-ty-gia-nhung-con-lo-von/)
+11:54:19	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=466
+11:54:19	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=466 to http://archive.agribankquan5.com.vn/bot-cang-ty-gia-nhung-con-lo-von/
+11:54:19	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2010/02/duaLSmoi.jpg (from archive.agribankquan5.com.vn/vay-tin-dung-tieu-dung-but-sa-tien-mat/)
+11:54:19	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=462
+11:54:19	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=462 to http://archive.agribankquan5.com.vn/vay-tin-dung-tieu-dung-but-sa-tien-mat/
+11:54:19	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/09/Thong-bao-phat-hanh-ky-phieu-ghi-da-307x400.jpg (from archive.agribankquan5.com.vn/phat-hanh-ky-phieu-ghi-danh-ngan-han/)
+11:54:19	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=144
+11:54:19	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=144 to http://archive.agribankquan5.com.vn/phat-hanh-ky-phieu-ghi-danh-ngan-han/
+11:54:19	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/08/chungchitiengui-tkthuonglaisuat-mienphithe-308x400.jpg (from archive.agribankquan5.com.vn/goi-3-khuyen-mai-lon-cua-agribank-quan-5-nhan-dip-cuoi-nam/)
+11:54:19	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=142
+11:54:19	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=142 to http://archive.agribankquan5.com.vn/goi-3-khuyen-mai-lon-cua-agribank-quan-5-nhan-dip-cuoi-nam/
+11:54:19	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=131
+11:54:19	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=131 to http://archive.agribankquan5.com.vn/cho-vay-tai-tro-xuat-nhap-khau/
+11:54:19	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=129
+11:54:19	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=129 to http://archive.agribankquan5.com.vn/huy-dong-tiet-kiem-du-thuong-chao-mung-ngay-quoc-te-lao-dong-15/
+11:54:19	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=128
+11:54:19	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=128 to http://archive.agribankquan5.com.vn/phat-hanh-ky-phieu-ngan-han-dot-1-2009/
+11:54:22	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2010/02/bull3002.jpg (from archive.agribankquan5.com.vn/khoi-ngoai-day-manh-giai-ngan-mua-rong-hon-240-ty-dong/)
+11:54:22	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2010/02/232010-14835-PM.png (from archive.agribankquan5.com.vn/khoi-ngoai-day-manh-giai-ngan-mua-rong-hon-240-ty-dong/)
+11:54:22	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2010/02/232010-13801-PM.png (from archive.agribankquan5.com.vn/khoi-ngoai-day-manh-giai-ngan-mua-rong-hon-240-ty-dong/)
+11:54:22	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=459
+11:54:22	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=459 to http://archive.agribankquan5.com.vn/khoi-ngoai-day-manh-giai-ngan-mua-rong-hon-240-ty-dong/
+11:54:48	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2010/02/images222955sacombank.jpg (from archive.agribankquan5.com.vn/chinh-sach-kinh-te-huong-den-tai-co-cau-kinh-te-va-cac-ngan-hang/)
+11:54:48	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=456
+11:54:48	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=456 to http://archive.agribankquan5.com.vn/chinh-sach-kinh-te-huong-den-tai-co-cau-kinh-te-va-cac-ngan-hang/
+11:54:48	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2010/02/vaytien.jpg (from archive.agribankquan5.com.vn/tien-nhan-roi-se-ve-ngan-hang/)
+11:54:48	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=454
+11:54:48	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=454 to http://archive.agribankquan5.com.vn/tien-nhan-roi-se-ve-ngan-hang/
+11:54:48	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2010/02/fsgsdgdgdgsdgs.jpg (from archive.agribankquan5.com.vn/thu-hut-nha-dau-tu-ngoai/)
+11:54:48	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=451
+11:54:48	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=451 to http://archive.agribankquan5.com.vn/thu-hut-nha-dau-tu-ngoai/
+11:54:48	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2010/02/VND2205a3.jpg (from archive.agribankquan5.com.vn/2010-ngan-hang-canh-tranh-manh-mang-ban-le/)
+11:54:48	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=441
+11:54:48	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=441 to http://archive.agribankquan5.com.vn/2010-ngan-hang-canh-tranh-manh-mang-ban-le/
+11:54:48	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=438
+11:54:48	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=438 to http://archive.agribankquan5.com.vn/438/
+11:54:48	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2010/02/116387khobac.jpg (from archive.agribankquan5.com.vn/doanh-nghiep-keu-kho-vay-von/)
+11:54:48	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=439
+11:54:48	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=439 to http://archive.agribankquan5.com.vn/doanh-nghiep-keu-kho-vay-von/
+11:54:48	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2010/02/goi120090909043941.jpg (from archive.agribankquan5.com.vn/vi-sao-ngan-hang-nha-nuoc-giu-nguyen-lscb/)
+11:54:48	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=435
+11:54:48	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=435 to http://archive.agribankquan5.com.vn/vi-sao-ngan-hang-nha-nuoc-giu-nguyen-lscb/
+11:54:48	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2010/02/d8adola3.jpg (from archive.agribankquan5.com.vn/nguoi-dan-kho-mua-usd-o-ngan-hang/)
+11:54:48	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=429
+11:54:48	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=429 to http://archive.agribankquan5.com.vn/nguoi-dan-kho-mua-usd-o-ngan-hang/
+11:55:10	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2010/02/nhandante2611a2.jpg (from archive.agribankquan5.com.vn/mot-tuan-sut-gia-cua-cac-dong-tien-chau-a/)
+11:55:10	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=427
+11:55:10	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=427 to http://archive.agribankquan5.com.vn/mot-tuan-sut-gia-cua-cac-dong-tien-chau-a/
+11:55:32	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2010/02/USD3.jpg (from archive.agribankquan5.com.vn/de-xuat-tich-thu-ngoai-te-mua-ban-trai-phep/)
+11:55:32	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=425
+11:55:32	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=425 to http://archive.agribankquan5.com.vn/de-xuat-tich-thu-ngoai-te-mua-ban-trai-phep/
+11:55:32	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2010/02/USD3107084.jpg (from archive.agribankquan5.com.vn/kho-giao-dich-usd-hop-phap/)
+11:55:32	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=423
+11:55:32	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=423 to http://archive.agribankquan5.com.vn/kho-giao-dich-usd-hop-phap/
+11:55:32	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2010/02/vang0112.jpg (from archive.agribankquan5.com.vn/dung-vang-tien-thu-hut-tiet-kiem/)
+11:55:32	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=421
+11:55:32	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=421 to http://archive.agribankquan5.com.vn/dung-vang-tien-thu-hut-tiet-kiem/
+11:55:32	Error: 	"Not Found" (404) at link archive.agribankquan5.com.vn/My Documents/Downloads/hinh1.jpg (from archive.agribankquan5.com.vn/ap-luc-tang-von-ngay-cang-cao/)
+11:55:32	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2010/02/VND1808b4.jpg (from archive.agribankquan5.com.vn/ap-luc-tang-von-ngay-cang-cao/)
+11:55:32	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=419
+11:55:32	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=419 to http://archive.agribankquan5.com.vn/ap-luc-tang-von-ngay-cang-cao/
+11:55:32	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=442
+11:55:32	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=442 to http://archive.agribankquan5.com.vn/tac-von-ngan-hang-va-doanh-nghiep-cung-keu/
+11:55:32	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=445
+11:55:32	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=445 to http://archive.agribankquan5.com.vn/ngan-hang-lo-von-dai-han-chay-sang-ngan-han/
+11:55:32	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2010/01/996859_mortgage_fee_1.jpg (from archive.agribankquan5.com.vn/thong-bao-giam-phi-moi-gioi-cho-diem-nhan-lenh-chung-khoan-quan-5/)
+11:55:32	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=394
+11:55:32	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=394 to http://archive.agribankquan5.com.vn/thong-bao-giam-phi-moi-gioi-cho-diem-nhan-lenh-chung-khoan-quan-5/
+11:55:33	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2010/01/NHbitroitay.jpg (from archive.agribankquan5.com.vn/han-muc-tin-dung-co-lap-duoc-lo-hong-quan-tri/)
+11:55:33	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=373
+11:55:33	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=373 to http://archive.agribankquan5.com.vn/han-muc-tin-dung-co-lap-duoc-lo-hong-quan-tri/
+11:55:33	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2010/01/NH2.jpg (from archive.agribankquan5.com.vn/lai-suat-ngap-ngung/)
+11:55:33	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=371
+11:55:33	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=371 to http://archive.agribankquan5.com.vn/lai-suat-ngap-ngung/
+11:55:33	Error: 	"NOT FOUND" (404) at link cafefcdn.com/web_css/chosen-sprite.png (from cafefcdn.com/web_css/newmain.min.98.0.0.css?ver=1)
+11:55:33	Error: 	"NOT FOUND" (404) at link cafefcdn.com/js/fancybox-1.3.4/fancy_close.png (from cafefcdn.com/web_css/newmain.min.98.0.0.css?ver=1)
+11:55:33	Error: 	"NOT FOUND" (404) at link cafefcdn.com/js/fancybox-1.3.4/fancy_nav_left.png (from cafefcdn.com/web_css/newmain.min.98.0.0.css?ver=1)
+11:55:33	Error: 	"NOT FOUND" (404) at link cafefcdn.com/js/fancybox-1.3.4/fancy_nav_right.png (from cafefcdn.com/web_css/newmain.min.98.0.0.css?ver=1)
+11:55:33	Error: 	"NOT FOUND" (404) at link cafefcdn.com/js/fancybox-1.3.4/fancy_title_left.png (from cafefcdn.com/web_css/newmain.min.98.0.0.css?ver=1)
+11:55:33	Error: 	"NOT FOUND" (404) at link cafefcdn.com/js/fancybox-1.3.4/fancy_title_main.png (from cafefcdn.com/web_css/newmain.min.98.0.0.css?ver=1)
+11:55:33	Error: 	"NOT FOUND" (404) at link cafefcdn.com/js/fancybox-1.3.4/fancy_title_right.png (from cafefcdn.com/web_css/newmain.min.98.0.0.css?ver=1)
+11:55:33	Error: 	"NOT FOUND" (404) at link cafefcdn.com/js/fancybox-1.3.4/fancy_loading.png (from cafefcdn.com/web_css/newmain.min.98.0.0.css?ver=1)
+11:55:33	Error: 	"NOT FOUND" (404) at link cafefcdn.com/js/fancybox-1.3.4/fancy_shadow_n.png (from cafefcdn.com/web_css/newmain.min.98.0.0.css?ver=1)
+11:55:33	Error: 	"NOT FOUND" (404) at link cafefcdn.com/js/fancybox-1.3.4/fancy_shadow_ne.png (from cafefcdn.com/web_css/newmain.min.98.0.0.css?ver=1)
+11:55:33	Error: 	"NOT FOUND" (404) at link cafefcdn.com/js/fancybox-1.3.4/fancy_shadow_e.png (from cafefcdn.com/web_css/newmain.min.98.0.0.css?ver=1)
+11:55:33	Error: 	"NOT FOUND" (404) at link cafefcdn.com/js/fancybox-1.3.4/fancy_shadow_se.png (from cafefcdn.com/web_css/newmain.min.98.0.0.css?ver=1)
+11:55:33	Error: 	"NOT FOUND" (404) at link cafefcdn.com/js/fancybox-1.3.4/fancy_shadow_s.png (from cafefcdn.com/web_css/newmain.min.98.0.0.css?ver=1)
+11:55:33	Error: 	"NOT FOUND" (404) at link cafefcdn.com/js/fancybox-1.3.4/fancy_shadow_sw.png (from cafefcdn.com/web_css/newmain.min.98.0.0.css?ver=1)
+11:55:33	Error: 	"NOT FOUND" (404) at link cafefcdn.com/js/fancybox-1.3.4/fancy_shadow_w.png (from cafefcdn.com/web_css/newmain.min.98.0.0.css?ver=1)
+11:55:33	Error: 	"NOT FOUND" (404) at link cafefcdn.com/js/fancybox-1.3.4/fancy_shadow_nw.png (from cafefcdn.com/web_css/newmain.min.98.0.0.css?ver=1)
+11:55:33	Error: 	"NOT FOUND" (404) at link autopro4.mediacdn.vn/images/sprite.gif (from cafefcdn.com/web_css/newmain.min.98.0.0.css?ver=1)
+11:55:33	Error: 	"NOT FOUND" (404) at link cafefcdn.com/web_images/rpcm.gif (from cafefcdn.com/web_css/newmain.min.98.0.0.css?ver=1)
+11:55:33	Error: 	"NOT FOUND" (404) at link cafefcdn.com/web_images/btnVideoHideHeader.png (from cafefcdn.com/web_css/newmain.min.98.0.0.css?ver=1)
+11:55:33	Error: 	"NOT FOUND" (404) at link cafefcdn.com/web_images/btnVideoShowHeader.png (from cafefcdn.com/web_css/newmain.min.98.0.0.css?ver=1)
+11:55:33	Error: 	"NOT FOUND" (404) at link cafefcdn.com/web_images/box_newest_small_v4.png (from cafefcdn.com/web_css/newmain.min.98.0.0.css?ver=1)
+11:55:37	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2010/01/LS5.jpg (from archive.agribankquan5.com.vn/can-thay-doi-dinh-nghia-ve-lai-suat-co-ban/)
+11:55:37	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=369
+11:55:37	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=369 to http://archive.agribankquan5.com.vn/can-thay-doi-dinh-nghia-ve-lai-suat-co-ban/
+11:56:22	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2010/01/IMG8016.jpg (from archive.agribankquan5.com.vn/igi-trien-khai-hoat-dong-kinh-doanh-vang-vat-chat/)
+11:56:22	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=367
+11:56:22	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=367 to http://archive.agribankquan5.com.vn/igi-trien-khai-hoat-dong-kinh-doanh-vang-vat-chat/
+11:56:22	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2010/01/USD17102.jpg (from archive.agribankquan5.com.vn/wef-dat-trong-tam-cai-to-nganh-tai-chinh-the-gioi/)
+11:56:22	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=365
+11:56:22	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=365 to http://archive.agribankquan5.com.vn/wef-dat-trong-tam-cai-to-nganh-tai-chinh-the-gioi/
+11:56:22	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2010/01/9247usd.jpg (from archive.agribankquan5.com.vn/e-ngai-kieu-hoi-chay-khoi-ngan-hang/)
+11:56:22	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=362
+11:56:22	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=362 to http://archive.agribankquan5.com.vn/e-ngai-kieu-hoi-chay-khoi-ngan-hang/
+11:56:22	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2010/01/p7a.jpg (from archive.agribankquan5.com.vn/lai-suat-meo-mo/)
+11:56:22	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=347
+11:56:22	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=347 to http://archive.agribankquan5.com.vn/lai-suat-meo-mo/
+11:56:22	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=344
+11:56:22	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=344 to http://archive.agribankquan5.com.vn/khong-qua-lo-lam-phat/
+11:56:22	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=342
+11:56:22	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=342 to http://archive.agribankquan5.com.vn/se-rac-roi-neu-ban-usd-cho-tiem-vang/
+11:56:22	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2010/01/176076653.jpg (from archive.agribankquan5.com.vn/gia-vang-tang-nhe/)
+11:56:22	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=333
+11:56:22	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=333 to http://archive.agribankquan5.com.vn/gia-vang-tang-nhe/
+11:56:22	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=330
+11:56:22	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=330 to http://archive.agribankquan5.com.vn/rut-tien-ngan-hang-khong-kiem-lai-mat-tien-con-them-buc-2/
+11:56:22	Error: 	"Not Found" (404) at link archive.agribankquan5.com.vn/rut-tien-ngan-hang-khong-kiem-lai-mat-tien-con-them-buc-2/location.href='PrintView.aspx'+location.search (from archive.agribankquan5.com.vn/rut-tien-ngan-hang-khong-kiem-lai-mat-tien-con-them-buc-2/)
+11:56:22	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=313
+11:56:22	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=313 to http://archive.agribankquan5.com.vn/mua-vang-khong-kheo-bi-lo/
+11:56:22	Error: 	"Not Found" (404) at link media1.admicro.vn/core/GET (from media1.admicro.vn/core/getbantracking.js)
+11:56:22	Error: 	"Not Found" (404) at link media1.admicro.vn/core/Trident/ (from media1.admicro.vn/core/analytics.js)
+11:56:25	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2010/01/TG.jpg (from archive.agribankquan5.com.vn/go-roi-thi-truong-tin-dung/)
+11:56:25	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=301
+11:56:25	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=301 to http://archive.agribankquan5.com.vn/go-roi-thi-truong-tin-dung/
+11:56:45	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2010/01/vang0112.jpg (from archive.agribankquan5.com.vn/san-vang-eo-uot-truoc-gio-dong-cua/)
+11:56:45	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=297
+11:56:45	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=297 to http://archive.agribankquan5.com.vn/san-vang-eo-uot-truoc-gio-dong-cua/
+11:56:45	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2010/01/126051nanghanmuc.jpg (from archive.agribankquan5.com.vn/thi-truong-tien-te-dip-tet-on-dinh/)
+11:56:45	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=292
+11:56:45	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=292 to http://archive.agribankquan5.com.vn/thi-truong-tien-te-dip-tet-on-dinh/
+11:56:45	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2010/01/rhrwerhrhrwjnhgymd.jpg (from archive.agribankquan5.com.vn/tim-von-tu-thi-truong/)
+11:56:45	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=336
+11:56:45	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=336 to http://archive.agribankquan5.com.vn/tim-von-tu-thi-truong/
+11:56:45	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=327
+11:56:45	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=327 to http://archive.agribankquan5.com.vn/lai-suat-usd-tang/
+11:56:45	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=318
+11:56:45	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=318 to http://archive.agribankquan5.com.vn/them-phi-de-giai-phong-von/
+11:56:45	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2010/01/atm480.jpg (from archive.agribankquan5.com.vn/rac-roi-doi-bin-the-ngan-hang/)
+11:56:45	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=285
+11:56:45	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=285 to http://archive.agribankquan5.com.vn/rac-roi-doi-bin-the-ngan-hang/
+11:56:45	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2010/01/sjc450.jpg (from archive.agribankquan5.com.vn/ra-soat-hoat-dong-cho-vay-va-huy-dong-vang/)
+11:56:45	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=283
+11:56:45	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=283 to http://archive.agribankquan5.com.vn/ra-soat-hoat-dong-cho-vay-va-huy-dong-vang/
+11:56:45	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2010/01/480.jpg (from archive.agribankquan5.com.vn/nha-dau-tu-chung-khoan-nhap-nhom-cho-t2/)
+11:56:45	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=278
+11:56:45	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=278 to http://archive.agribankquan5.com.vn/nha-dau-tu-chung-khoan-nhap-nhom-cho-t2/
+11:56:45	Warning: 	Retry after error -4 (Connect Error) at link ebank.vnexpress.net/Files/Subject/3B/A1/77/08/3kreditkarten_gr.JPG (from archive.agribankquan5.com.vn/30-trieu-the-ngan-hang-duc-te-liet/)
+11:56:45	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=260
+11:56:45	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=260 to http://archive.agribankquan5.com.vn/30-trieu-the-ngan-hang-duc-te-liet/
+11:56:51	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2010/01/b480.jpg (from archive.agribankquan5.com.vn/cham-dut-hoat-dong-san-giao-dich-vang-tu-30-03-2010/)
+11:56:51	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=270
+11:56:51	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=270 to http://archive.agribankquan5.com.vn/cham-dut-hoat-dong-san-giao-dich-vang-tu-30-03-2010/
+11:57:14	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/12/vang1122bai.jpg (from archive.agribankquan5.com.vn/gia-vang-quay-dau-di-xuong/)
+11:57:14	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=275
+11:57:14	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=275 to http://archive.agribankquan5.com.vn/gia-vang-quay-dau-di-xuong/
+11:57:14	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/12/480.jpg (from archive.agribankquan5.com.vn/ket-noi-he-thong-the-smartlink-va-vnbc/)
+11:57:14	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=264
+11:57:14	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=264 to http://archive.agribankquan5.com.vn/ket-noi-he-thong-the-smartlink-va-vnbc/
+11:57:14	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=148
+11:57:14	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=148 to http://archive.agribankquan5.com.vn/ha-noi-mot-trong-nhung-diem-mua-sam-hap-dan-cua-chau-a/
+11:57:14	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=147
+11:57:14	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=147 to http://archive.agribankquan5.com.vn/vay-von-tin-dung-dao-tao-qua-the-ngan-hang-nhu-the-nao/
+11:57:14	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=146
+11:57:14	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=146 to http://archive.agribankquan5.com.vn/mang-xa-hoi-len-ngoi-email-loi-thoi/
+11:57:14	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/09/090916p3aaa1.jpg (from archive.agribankquan5.com.vn/chu-ky-so-ky-the-nao/)
+11:57:14	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/09/090916p3aaa2.jpg (from archive.agribankquan5.com.vn/chu-ky-so-ky-the-nao/)
+11:57:14	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=145
+11:57:14	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=145 to http://archive.agribankquan5.com.vn/chu-ky-so-ky-the-nao/
+11:57:14	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=266
+11:57:14	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=266 to http://archive.agribankquan5.com.vn/co-quan-dieu-tra-gap-kho-voi-toi-pham-cong-nghe-cao/
+11:57:14	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/07/Hoi thao IT.jpg (from archive.agribankquan5.com.vn/ngan-hang-chong-do-hon-100000-cuoc-tan-cong-moi-ngay/)
+11:57:14	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=141
+11:57:14	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=141 to http://archive.agribankquan5.com.vn/ngan-hang-chong-do-hon-100000-cuoc-tan-cong-moi-ngay/
+11:57:14	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=140
+11:57:14	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=140 to http://archive.agribankquan5.com.vn/cong-nghe-boi-gia-chung-khoan-gia-len-hay-xuong/
+11:57:14	Warning: 	Retry after error -4 (Connect Error) at link ebank.vnexpress.net/Files/Subject/3B/A1/77/08/3kreditkarten_gr.JPG (from archive.agribankquan5.com.vn/30-trieu-the-ngan-hang-duc-te-liet/)
+11:57:43	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=138
+11:57:43	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=138 to http://archive.agribankquan5.com.vn/phat-hien-ngan-hang-ban-ngoai-te-vuot-gia-tran/
+11:58:04	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=137
+11:58:04	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=137 to http://archive.agribankquan5.com.vn/de-nghi-keo-dai-thoi-han-vay-ho-tro-lai-suat/
+11:58:04	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=136
+11:58:04	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=136 to http://archive.agribankquan5.com.vn/thu-tuong-chinh-phu-khong-de-tai-lam-phat/
+11:58:04	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=135
+11:58:04	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=135 to http://archive.agribankquan5.com.vn/thu-ngan-sach-giam-tren-12-phan-tram/
+11:58:04	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=134
+11:58:04	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=134 to http://archive.agribankquan5.com.vn/10-nam-toi-tang-gap-ba-thu-nhap-cho-dan/
+11:58:04	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=133
+11:58:04	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=133 to http://archive.agribankquan5.com.vn/hoan-thue-thu-nhap-qua-co-quan-chi-tra/
+11:58:04	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=118
+11:58:04	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=118 to http://archive.agribankquan5.com.vn/khoan-vay-cua-ca-nhan-cung-duoc-ho-tro-lai-suat/
+11:58:04	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/04/11291220412-DSC_7842.jpg (from archive.agribankquan5.com.vn/niem-tin-tro-lai-hay-la-song-ngan/)
+11:58:04	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=116
+11:58:04	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=116 to http://archive.agribankquan5.com.vn/niem-tin-tro-lai-hay-la-song-ngan/
+11:58:04	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/04/12-chot.jpg (from archive.agribankquan5.com.vn/chua-chap-thuan-dich-vu-atm-luu-dong/)
+11:58:04	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=114
+11:58:04	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=114 to http://archive.agribankquan5.com.vn/chua-chap-thuan-dich-vu-atm-luu-dong/
+11:58:04	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/04/4-chot.jpg (from archive.agribankquan5.com.vn/techcombank-lam-lo-thong-tin-cua-khach/)
+11:58:04	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=115
+11:58:04	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=115 to http://archive.agribankquan5.com.vn/techcombank-lam-lo-thong-tin-cua-khach/
+11:58:04	Error: 	"Connect Error" (-4) after 2 retries at link ebank.vnexpress.net/Files/Subject/3B/A1/77/08/3kreditkarten_gr.JPG (from archive.agribankquan5.com.vn/30-trieu-the-ngan-hang-duc-te-liet/)
+11:58:16	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/04/20465984982-IMG_3416.jpg (from archive.agribankquan5.com.vn/tphcm-hang-loat-may-atm-te-liet/)
+11:58:16	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=127
+11:58:16	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=127 to http://archive.agribankquan5.com.vn/tphcm-hang-loat-may-atm-te-liet/
+11:58:16	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=126
+11:58:16	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=126 to http://archive.agribankquan5.com.vn/can-nhac-khi-mua-usd/
+11:58:16	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/04/12-chot1.jpg (from archive.agribankquan5.com.vn/ngan-hang-phai-boi-hoan-neu-giao-dich-atm-co-loi/)
+11:58:16	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=125
+11:58:16	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=125 to http://archive.agribankquan5.com.vn/ngan-hang-phai-boi-hoan-neu-giao-dich-atm-co-loi/
+11:58:16	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/04/udd.jpg (from archive.agribankquan5.com.vn/usd-cho-den-tiep-da-tang-gia/)
+11:58:16	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=124
+11:58:16	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=124 to http://archive.agribankquan5.com.vn/usd-cho-den-tiep-da-tang-gia/
+11:58:16	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=123
+11:58:16	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=123 to http://archive.agribankquan5.com.vn/phien-giao-dich-chung-khoan-ngay-104-mua-ba-ban-mot/
+11:58:21	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/04/CK.jpg (from archive.agribankquan5.com.vn/giao-dich-chung-khoan-lap-ky-luc/)
+11:58:21	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=113
+11:58:21	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=113 to http://archive.agribankquan5.com.vn/giao-dich-chung-khoan-lap-ky-luc/
+11:58:21	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/04/vang.jpg (from archive.agribankquan5.com.vn/gia-vang-giam-nhieu-ban-ra-1977-trieu-dongluong/)
+11:58:21	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=112
+11:58:21	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=112 to http://archive.agribankquan5.com.vn/gia-vang-giam-nhieu-ban-ra-1977-trieu-dongluong/
+11:58:21	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=111
+11:58:21	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=111 to http://archive.agribankquan5.com.vn/nho-tin-tot-chung-khoan-lai-tang/
+11:58:21	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/04/48469943912-chot.jpg (from archive.agribankquan5.com.vn/ngan-hang-tang-von-co-phieu-kem-hap-dan/)
+11:58:21	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=109
+11:58:21	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=109 to http://archive.agribankquan5.com.vn/ngan-hang-tang-von-co-phieu-kem-hap-dan/
+11:58:21	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/04/104310603111-chot.jpg (from archive.agribankquan5.com.vn/lua-dao-trong-thuong-mai-quoc-te/)
+11:58:21	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=107
+11:58:21	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=107 to http://archive.agribankquan5.com.vn/lua-dao-trong-thuong-mai-quoc-te/
+11:58:21	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=105
+11:58:21	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=105 to http://archive.agribankquan5.com.vn/nam-2009-vn-se-dat-muc-tang-truong-45/
+11:58:21	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/04/9065534912-CHOTdf.jpg (from archive.agribankquan5.com.vn/co-the-bieu-quyet-dh-co-dong-bang-thu-dien-tu/)
+11:58:21	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=104
+11:58:21	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=104 to http://archive.agribankquan5.com.vn/co-the-bieu-quyet-dh-co-dong-bang-thu-dien-tu/
+11:58:21	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/04/63069800112-Chot.jpg (from archive.agribankquan5.com.vn/vnindex-dao-chieu-tien-sat-290-diem/)
+11:58:21	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=103
+11:58:21	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=103 to http://archive.agribankquan5.com.vn/vnindex-dao-chieu-tien-sat-290-diem/
+11:58:21	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2010/02/c1.jpg (from archive.agribankquan5.com.vn/nhung-doc-chieu-an-trom-tien-tu-may-atm/)
+11:58:21	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/02/c2.jpg (from archive.agribankquan5.com.vn/nhung-doc-chieu-an-trom-tien-tu-may-atm/)
+11:58:21	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/02/c3.jpg (from archive.agribankquan5.com.vn/nhung-doc-chieu-an-trom-tien-tu-may-atm/)
+11:58:21	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/02/c4.jpg (from archive.agribankquan5.com.vn/nhung-doc-chieu-an-trom-tien-tu-may-atm/)
+11:58:21	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/02/atm.jpg (from archive.agribankquan5.com.vn/nhung-doc-chieu-an-trom-tien-tu-may-atm/)
+11:58:21	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=412
+11:58:21	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=412 to http://archive.agribankquan5.com.vn/nhung-doc-chieu-an-trom-tien-tu-may-atm/
+11:58:21	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2010/02/S1.jpg (from archive.agribankquan5.com.vn/5-manh-khoe-cau-tien-qua-mang/)
+11:58:21	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=399
+11:58:21	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=399 to http://archive.agribankquan5.com.vn/5-manh-khoe-cau-tien-qua-mang/
+11:58:30	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/04/191998708212-chotdfd.jpg (from archive.agribankquan5.com.vn/thi-truong-vang-chua-lien-thong/)
+11:58:30	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=122
+11:58:30	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=122 to http://archive.agribankquan5.com.vn/thi-truong-vang-chua-lien-thong/
+11:58:30	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/04/tienluong.gif (from archive.agribankquan5.com.vn/tu-15-luong-toi-thieu-tang-len-650000-dongthang/)
+11:58:30	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=121
+11:58:30	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=121 to http://archive.agribankquan5.com.vn/tu-15-luong-toi-thieu-tang-len-650000-dongthang/
+11:58:30	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/04/28847371212-chot.jpg (from archive.agribankquan5.com.vn/o-at-mua-gom-co-phieu/)
+11:58:30	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=120
+11:58:30	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=120 to http://archive.agribankquan5.com.vn/o-at-mua-gom-co-phieu/
+11:58:30	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/04/ckhoan.gif (from archive.agribankquan5.com.vn/chung-khoan-trong-xu-huong-tang/)
+11:58:30	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=119
+11:58:30	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=119 to http://archive.agribankquan5.com.vn/chung-khoan-trong-xu-huong-tang/
+11:58:30	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/04/1361090335laisuat.jpg (from archive.agribankquan5.com.vn/vay-trung-dai-han-cung-duoc-ho-tro-lai-suat-4nam/)
+11:58:30	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=117
+11:58:30	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=117 to http://archive.agribankquan5.com.vn/vay-trung-dai-han-cung-duoc-ho-tro-lai-suat-4nam/
+11:58:30	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2010/02/atm1.jpg (from archive.agribankquan5.com.vn/cach-hacker-an-cap-9-trieu-usd-tu-atm-trong-1-gio/)
+11:58:30	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=403
+11:58:30	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=403 to http://archive.agribankquan5.com.vn/cach-hacker-an-cap-9-trieu-usd-tu-atm-trong-1-gio/
+11:58:30	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2010/02/A4.jpg (from archive.agribankquan5.com.vn/9-trieu-usd-trong-the-atm-bi-an-trom-trong-mot-gio/)
+11:58:30	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=405
+11:58:30	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=405 to http://archive.agribankquan5.com.vn/9-trieu-usd-trong-the-atm-bi-an-trom-trong-mot-gio/
+11:58:53	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/04/172809060312-chffhot.jpg (from archive.agribankquan5.com.vn/cuong-nhiet-mua-ban-chung-khoan-tiem-can-300-diem/)
+11:58:53	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=110
+11:58:53	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=110 to http://archive.agribankquan5.com.vn/cuong-nhiet-mua-ban-chung-khoan-tiem-can-300-diem/
+11:58:53	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=108
+11:58:53	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=108 to http://archive.agribankquan5.com.vn/mua-ban-vang-e-am/
+11:58:53	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=106
+11:58:53	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=106 to http://archive.agribankquan5.com.vn/kinh-te-chuyen-bien-chung-khoan-tang/
+11:59:17	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=102
+11:59:17	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=102 to http://archive.agribankquan5.com.vn/mit-mu-thong-tin-chung-khoan/
+11:59:17	Error: 	"not found" (404) at link admin.nld.com.vn/Images/Uploaded/nvhung/2009/04/01/3-dsc_2491.jpg (from archive.agribankquan5.com.vn/cho-nong-dan-vay-khong-lai-de-mua-may-xay-nha/)
+11:59:17	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=101
+11:59:17	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=101 to http://archive.agribankquan5.com.vn/cho-nong-dan-vay-khong-lai-de-mua-may-xay-nha/
+11:59:17	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/03/chungkhoan2.jpg (from archive.agribankquan5.com.vn/chung-khoan-khong-co-co-hoi-ngoc-dau/)
+11:59:17	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=100
+11:59:17	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=100 to http://archive.agribankquan5.com.vn/chung-khoan-khong-co-co-hoi-ngoc-dau/
+11:59:17	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=99
+11:59:17	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=99 to http://archive.agribankquan5.com.vn/giai-ngan-tren-14-ti-usd-von-dau-tu-nuoc-ngoai/
+11:59:17	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=97
+11:59:17	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=97 to http://archive.agribankquan5.com.vn/mien-thue-tncn-cho-ca-nhan-lam-viec-cho-cac-to-chuc-lien-hiep-quoc-tai-vn/
+11:59:17	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=98
+11:59:17	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=98 to http://archive.agribankquan5.com.vn/tien-dang-quay-lai-chung-khoan/
+11:59:17	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=95
+11:59:17	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=95 to http://archive.agribankquan5.com.vn/co-phieu-ve1-tai-san-hastc-bi-kiem-soat/
+11:59:17	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=96
+11:59:17	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=96 to http://archive.agribankquan5.com.vn/vnindex-tang-diem-nha-dau-tu-nuoc-ngoai-tiep-tuc-mua-rong/
+11:59:17	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=92
+11:59:17	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=92 to http://archive.agribankquan5.com.vn/vincomsc-thay-chu-tich-hdqt-va-phu-nhan-tin-don/
+11:59:17	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=93
+11:59:17	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=93 to http://archive.agribankquan5.com.vn/chon-mua-co-phieu-ngan-hang/
+11:59:40	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=94
+11:59:40	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=94 to http://archive.agribankquan5.com.vn/thong-tin-thi-truong-273/
+11:59:40	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=91
+11:59:40	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=91 to http://archive.agribankquan5.com.vn/so-gdck-tphcm-yeu-cau-tang-cuong-su-minh-bach/
+11:59:40	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=90
+11:59:40	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=90 to http://archive.agribankquan5.com.vn/chung-khoan-the-gioi-bat-manh-tro-lai/
+11:59:40	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/03/c1.jpg (from archive.agribankquan5.com.vn/cam-cong-ty-chung-khoan-mo-san-vang/)
+11:59:40	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=89
+11:59:40	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=89 to http://archive.agribankquan5.com.vn/cam-cong-ty-chung-khoan-mo-san-vang/
+11:59:40	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/03/anhvang_1_350.jpg (from archive.agribankquan5.com.vn/gia-vang-tiep-tuc-an-theo-dola/)
+11:59:40	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=88
+11:59:40	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=88 to http://archive.agribankquan5.com.vn/gia-vang-tiep-tuc-an-theo-dola/
+11:59:40	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/03/ck12.jpg (from archive.agribankquan5.com.vn/vnindex-tai-lap-moc-270-diem/)
+11:59:40	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=87
+11:59:40	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=87 to http://archive.agribankquan5.com.vn/vnindex-tai-lap-moc-270-diem/
+11:59:40	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=86
+11:59:40	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=86 to http://archive.agribankquan5.com.vn/thi-truong-ngoai-te-diu-lai/
+11:59:40	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/03/anh_1.jpg (from archive.agribankquan5.com.vn/doanh-nghiep-bop-bung-mua-usd-gia-cao/)
+11:59:40	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=85
+11:59:40	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=85 to http://archive.agribankquan5.com.vn/doanh-nghiep-bop-bung-mua-usd-gia-cao/
+11:59:40	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/03/vang mieng.jpg (from archive.agribankquan5.com.vn/viet-nam-xuat-hang-chuc-tan-vang/)
+11:59:40	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=84
+11:59:40	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=84 to http://archive.agribankquan5.com.vn/viet-nam-xuat-hang-chuc-tan-vang/
+11:59:40	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=83
+11:59:40	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=83 to http://archive.agribankquan5.com.vn/quay-lung-voi-vang/
+12:00:00	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=82
+12:00:00	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=82 to http://archive.agribankquan5.com.vn/noi-bien-do-ty-gia-usd-len-5/
+12:00:00	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=81
+12:00:00	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=81 to http://archive.agribankquan5.com.vn/thong-tin-thi-truong/
+12:00:00	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=80
+12:00:00	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=80 to http://archive.agribankquan5.com.vn/mua-giay-to-co-gia-lai-suat-cao/
+12:00:00	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=79
+12:00:00	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=79 to http://archive.agribankquan5.com.vn/bao-lanh-vay-von-phai-kien-nghi-ngay-neu-dieu-kien-qua-chat/
+12:00:00	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=78
+12:00:00	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=78 to http://archive.agribankquan5.com.vn/manh-tay-chi-tien-xuc-tien-thuong-mai/
+12:00:00	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/03/sanvang_2_1.jpg (from archive.agribankquan5.com.vn/gia-vang-tren-san-thap-hon-thi-truong-tu-do/)
+12:00:00	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=74
+12:00:00	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=74 to http://archive.agribankquan5.com.vn/gia-vang-tren-san-thap-hon-thi-truong-tu-do/
+12:00:00	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/03/1a3.jpg (from archive.agribankquan5.com.vn/xu-huong-tang-mua-khi-gia-vang-tiep-tuc-di-len/)
+12:00:00	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=75
+12:00:00	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=75 to http://archive.agribankquan5.com.vn/xu-huong-tang-mua-khi-gia-vang-tiep-tuc-di-len/
+12:00:01	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/03/Mr Nguyen Van Giau.jpg (from archive.agribankquan5.com.vn/thong-doc-nguyen-van-giau-nghiem-cam-cho-vay-dao-no/)
+12:00:01	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=76
+12:00:01	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=76 to http://archive.agribankquan5.com.vn/thong-doc-nguyen-van-giau-nghiem-cam-cho-vay-dao-no/
+12:00:01	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/03/vayvon_350.jpg (from archive.agribankquan5.com.vn/loan-phi-vay-von-ngan-hang/)
+12:00:01	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=77
+12:00:01	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=77 to http://archive.agribankquan5.com.vn/loan-phi-vay-von-ngan-hang/
+12:00:01	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/03/anhUSD_1.jpg (from archive.agribankquan5.com.vn/dola-cho-den-cham-moc-18000-dong/)
+12:00:01	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=72
+12:00:01	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=72 to http://archive.agribankquan5.com.vn/dola-cho-den-cham-moc-18000-dong/
+12:00:26	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=71
+12:00:26	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=71 to http://archive.agribankquan5.com.vn/gia-vang-giam-con-19-93-trieu-dong-luong/
+12:00:26	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=70
+12:00:26	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=70 to http://archive.agribankquan5.com.vn/ngan-hang-kinh-doanh-thoi-khung-hoang/
+12:00:26	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=69
+12:00:26	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=69 to http://archive.agribankquan5.com.vn/ban-ra-nhieu-chung-khoan-giam-manh/
+12:00:26	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=68
+12:00:26	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=68 to http://archive.agribankquan5.com.vn/thong-tin-thi-truong-ngay-19-3-2009/
+12:00:26	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=67
+12:00:26	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=67 to http://archive.agribankquan5.com.vn/viet-nam-nen-tiep-tuc-cai-cach-khu-vuc-tai-chinh/
+12:00:26	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=66
+12:00:26	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=66 to http://archive.agribankquan5.com.vn/chan-chinh-hoat-dong-mua-ban-ngoai-te/
+12:00:26	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/03/ck11.jpg (from archive.agribankquan5.com.vn/otc-chua-kip-nong-da-nguoi/)
+12:00:26	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=65
+12:00:26	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=65 to http://archive.agribankquan5.com.vn/otc-chua-kip-nong-da-nguoi/
+12:00:26	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/03/reu11.jpg (from archive.agribankquan5.com.vn/chung-khoan-my-thoat-hiem/)
+12:00:26	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=64
+12:00:26	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=64 to http://archive.agribankquan5.com.vn/chung-khoan-my-thoat-hiem/
+12:00:26	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/03/mua dola.jpg (from archive.agribankquan5.com.vn/cam-di-duong-vong-de-ban-ngoai-te-gia-cao/)
+12:00:26	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=63
+12:00:26	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=63 to http://archive.agribankquan5.com.vn/cam-di-duong-vong-de-ban-ngoai-te-gia-cao/
+12:00:49	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=62
+12:00:49	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=62 to http://archive.agribankquan5.com.vn/lenh-mua-co-phieu-tang-gan-70/
+12:00:49	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=61
+12:00:49	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=61 to http://archive.agribankquan5.com.vn/xang-dau-tang-chiet-khau-chua-giam-gia/
+12:00:49	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=60
+12:00:49	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=60 to http://archive.agribankquan5.com.vn/lam-phat-nam-nay-o-vn-co-the-duoi-10/
+12:00:49	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=936
+12:00:49	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=936 to http://archive.agribankquan5.com.vn/du-bao-khac-nhau-ve-tang-truong-kinh-te-vn-tat-ca-chi-la-du-bao/
+12:00:49	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/03/moctui.jpg (from archive.agribankquan5.com.vn/nguoi-tieu-dung-bi-choi-xau/)
+12:00:49	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=935
+12:00:49	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=935 to http://archive.agribankquan5.com.vn/nguoi-tieu-dung-bi-choi-xau/
+12:00:49	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/03/a1.jpg (from archive.agribankquan5.com.vn/chung-khoan-ao-ao-tang-gia-trong-phien-t4/)
+12:00:49	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=934
+12:00:49	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=934 to http://archive.agribankquan5.com.vn/chung-khoan-ao-ao-tang-gia-trong-phien-t4/
+12:00:49	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/03/ty phu.jpg (from archive.agribankquan5.com.vn/nu-ty-phu-giau-nhat-nga-xin-tien-chinh-phu/)
+12:00:49	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=933
+12:00:49	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=933 to http://archive.agribankquan5.com.vn/nu-ty-phu-giau-nhat-nga-xin-tien-chinh-phu/
+12:00:49	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/03/ck1.jpg (from archive.agribankquan5.com.vn/nhan-dien-bao-cao-tai-chinh-co-van-de/)
+12:00:49	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=932
+12:00:49	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=932 to http://archive.agribankquan5.com.vn/nhan-dien-bao-cao-tai-chinh-co-van-de/
+12:00:49	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/03/1barack_obama3.jpg (from archive.agribankquan5.com.vn/nuoc-my-ngay-cang-nghi-ngo-goi-kich-thich-787-ty-usd/)
+12:00:49	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=931
+12:00:49	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=931 to http://archive.agribankquan5.com.vn/nuoc-my-ngay-cang-nghi-ngo-goi-kich-thich-787-ty-usd/
+12:00:49	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/03/1gdp3.jpg (from archive.agribankquan5.com.vn/wb-trung-quoc-chi-co-the-tang-truong-65/)
+12:00:49	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=930
+12:00:49	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=930 to http://archive.agribankquan5.com.vn/wb-trung-quoc-chi-co-the-tang-truong-65/
+12:01:13	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=52
+12:01:13	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=52 to http://archive.agribankquan5.com.vn/chung-khoan-hao-hung-di-len/
+12:01:13	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=929
+12:01:13	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=929 to http://archive.agribankquan5.com.vn/xu-phat-hang-loat-truong-hop-vi-pham-chung-khoan-lien-quan-den-co-phieu-fbt/
+12:01:13	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=928
+12:01:13	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=928 to http://archive.agribankquan5.com.vn/thong-tin-thi-truong-1710/
+12:01:13	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=927
+12:01:13	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=927 to http://archive.agribankquan5.com.vn/phan-bo-36000-ty-dong-von-trai-phieu-chinh-phu-nam-2009/
+12:01:13	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=926
+12:01:13	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=926 to http://archive.agribankquan5.com.vn/dong-tien-tam-quay-ve-voi-chung-khoan/
+12:01:13	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/03/reu1.jpg (from archive.agribankquan5.com.vn/chung-khoan-the-gioi-cho-tin-tu-hoi-nghi-g20/)
+12:01:13	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=925
+12:01:13	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=925 to http://archive.agribankquan5.com.vn/chung-khoan-the-gioi-cho-tin-tu-hoi-nghi-g20/
+12:01:13	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/03/450x3501.jpg (from archive.agribankquan5.com.vn/gom-co-phieu-de-duoc-du-dai-hoi-co-dong/)
+12:01:13	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=924
+12:01:13	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=924 to http://archive.agribankquan5.com.vn/gom-co-phieu-de-duoc-du-dai-hoi-co-dong/
+12:01:13	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=923
+12:01:13	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=923 to http://archive.agribankquan5.com.vn/su-tien-dung-khi-dung-the-atm/
+12:01:13	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=44
+12:01:13	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=44 to http://archive.agribankquan5.com.vn/du-no-ho-tro-lai-suat-da-vuot-144000-ti-dong/
+12:01:14	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=43
+12:01:14	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=43 to http://archive.agribankquan5.com.vn/suy-giam-kinh-te-da-cham-lai/
+12:01:36	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=922
+12:01:36	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=922 to http://archive.agribankquan5.com.vn/hoan-thue-thu-nhap-ca-nhan-cac-co-quan-thue-huong-dan-khac-nhau/
+12:01:36	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=921
+12:01:36	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=921 to http://archive.agribankquan5.com.vn/sau-nhom-vi-pham-chung-khoan-co-the-bi-tu/
+12:01:36	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=920
+12:01:36	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=920 to http://archive.agribankquan5.com.vn/chinh-doanh-nghiep-duoc-huong-loi-tu-chinh-sach-ho-tro-lai-suat/
+12:01:36	Error: 	"Not Found" (404) at link archive.agribankquan5.com.vn/images/stories/clock.jpg (from archive.agribankquan5.com.vn/cac-diem-giao-dich-cua-chi-nhanh-quan-5/)
+12:01:36	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=919
+12:01:36	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=919 to http://archive.agribankquan5.com.vn/cac-diem-giao-dich-cua-chi-nhanh-quan-5/
+12:01:36	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=918
+12:01:36	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=918 to http://archive.agribankquan5.com.vn/thong-tin-thi-truong-14-3/
+12:01:36	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=917
+12:01:36	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=917 to http://archive.agribankquan5.com.vn/doanh-nghiep-tren-san-vat-lon-voi-khung-hoang/
+12:01:36	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/03/1PNJ3.jpg (from archive.agribankquan5.com.vn/vang-bac-phu-nhuan-niem-yet-tren-san-hose/)
+12:01:36	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=916
+12:01:36	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=916 to http://archive.agribankquan5.com.vn/vang-bac-phu-nhuan-niem-yet-tren-san-hose/
+12:01:36	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/03/1chart4.jpg (from archive.agribankquan5.com.vn/thi-truong-vang-chung-lai-nghe-ngong/)
+12:01:36	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=915
+12:01:36	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=915 to http://archive.agribankquan5.com.vn/thi-truong-vang-chung-lai-nghe-ngong/
+12:01:36	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=914
+12:01:36	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=914 to http://archive.agribankquan5.com.vn/cuoi-thang-3-phat-hanh-300-trieu-usd-trai-phieu-chinh-phu/
+12:01:36	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=913
+12:01:36	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=913 to http://archive.agribankquan5.com.vn/thong-tin-thi-truong-13-3/
+12:01:58	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=912
+12:01:58	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=912 to http://archive.agribankquan5.com.vn/co-phieu-cua-doanh-nghiep-trich-lap-du-phong-co-rui-ro-gi/
+12:01:58	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=911
+12:01:58	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=911 to http://archive.agribankquan5.com.vn/pho-wall-tiep-tuc-nhung-ngay-hung-khoi/
+12:01:58	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=910
+12:01:58	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=910 to http://archive.agribankquan5.com.vn/dau-tu-thong-minh-trong-thoi-khung-hoang/
+12:01:58	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/03/450x350.jpg (from archive.agribankquan5.com.vn/giao-dich-hai-san-tang-vot/)
+12:01:58	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=909
+12:01:58	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=909 to http://archive.agribankquan5.com.vn/giao-dich-hai-san-tang-vot/
+12:01:58	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=28
+12:01:58	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=28 to http://archive.agribankquan5.com.vn/gian-lan-bao-cao-tai-chinh-co-the-phai-ra-toa/
+12:01:58	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=908
+12:01:58	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=908 to http://archive.agribankquan5.com.vn/thong-tin-thi-truong-12-3/
+12:01:58	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=907
+12:01:58	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=907 to http://archive.agribankquan5.com.vn/ket-qua-ky-phieu-du-thuong-mung-xuan-ky-suu/
+12:01:58	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=906
+12:01:58	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=906 to http://archive.agribankquan5.com.vn/gia-vang-giam-con-19-35-trieu-dong-luong/
+12:01:58	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=905
+12:01:58	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=905 to http://archive.agribankquan5.com.vn/my-muon-han-che-nan-ban-khong-chung-khoan/
+12:01:58	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=904
+12:01:58	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=904 to http://archive.agribankquan5.com.vn/thong-tin-thi-truong-11-3/
+12:02:11	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=903
+12:02:11	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=903 to http://archive.agribankquan5.com.vn/san-vang-an-nen-lam-ra/
+12:02:11	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=902
+12:02:11	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=902 to http://archive.agribankquan5.com.vn/the-thong-minh-se-duoc-su-dung-pho-bien/
+12:02:11	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=901
+12:02:11	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=901 to http://archive.agribankquan5.com.vn/thong-tin-thi-truong-10-3/
+12:02:11	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=900
+12:02:11	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=900 to http://archive.agribankquan5.com.vn/200-khach-tham-gia-hoi-thao-ve-thanh-toan-truc-tuyen/
+12:02:11	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/03/11.jpg (from archive.agribankquan5.com.vn/thi-truong-vang-khoi-dong-cham-chap/)
+12:02:11	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=899
+12:02:11	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=899 to http://archive.agribankquan5.com.vn/thi-truong-vang-khoi-dong-cham-chap/
+12:02:11	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=17
+12:02:11	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=17 to http://archive.agribankquan5.com.vn/bot-lo-khi-gia-vang-tang/
+12:02:11	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/03/1.jpg (from archive.agribankquan5.com.vn/thi-truong-vang-tiep-tuc-nhich-len/)
+12:02:11	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=16
+12:02:11	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=16 to http://archive.agribankquan5.com.vn/thi-truong-vang-tiep-tuc-nhich-len/
+12:02:11	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=898
+12:02:11	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=898 to http://archive.agribankquan5.com.vn/mien-phi-phat-hanh-the-nhan-dip-thanh-lap-agribank/
+12:02:11	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=14
+12:02:11	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=14 to http://archive.agribankquan5.com.vn/vang-giam-gan-550000-dongluong-trong-2-ngay-dau-tuan/
+12:02:11	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=897
+12:02:11	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=897 to http://archive.agribankquan5.com.vn/the-ghi-no-noi-dia-cua-agribank/
+12:02:20	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=896
+12:02:20	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=896 to http://archive.agribankquan5.com.vn/gia-vang-con-19-55-trieu-dong-luong/
+12:02:20	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=895
+12:02:20	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=895 to http://archive.agribankquan5.com.vn/xuat-khau-kim-loai-quy-da-quy-tang-hon-60-lan/
+12:02:20	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=894
+12:02:20	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=894 to http://archive.agribankquan5.com.vn/gia-vang-tang-len-19-9-trieu-dong-luong/
+12:02:20	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=893
+12:02:20	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=893 to http://archive.agribankquan5.com.vn/gia-vang-gan-dat-20-trieu-dong-luong/
+12:02:20	Error: 	"Not Found" (404) at link www.agribankquan5.com.vn/wp-content/uploads/2009/01/12-chot12.jpg (from archive.agribankquan5.com.vn/atm-nghen-mach-van-thu-phi/)
+12:02:20	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=892
+12:02:20	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=892 to http://archive.agribankquan5.com.vn/atm-nghen-mach-van-thu-phi/
+12:02:20	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=891
+12:02:20	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=891 to http://archive.agribankquan5.com.vn/dich-vu-vntopup/
+12:02:20	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=59
+12:02:20	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=59 to http://archive.agribankquan5.com.vn/tien-ich-va-huong-dan-su-dung-ebanking/
+12:02:20	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=58
+12:02:20	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=58 to http://archive.agribankquan5.com.vn/huong-dan-cho-vay-doi-tuong-du-hoc-nuoc-ngoai/
+12:02:20	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=57
+12:02:20	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=57 to http://archive.agribankquan5.com.vn/dich-vu-quan-ly-tien/
+12:02:20	Error: 	"Not Found" (404) at link archive.agribankquan5.com.vn/images/stories/western.jpg (from archive.agribankquan5.com.vn/tong-quan-ve-ttqt/)
+12:02:20	Warning: 	Moved Permanently for archive.agribankquan5.com.vn/?p=3
+12:02:20	Warning: 	File has moved from archive.agribankquan5.com.vn/?p=3 to http://archive.agribankquan5.com.vn/tong-quan-ve-ttqt/
+
+HTTrack Website Copier/3.49-2 mirror complete in 28 minutes 41 seconds : 1967 links scanned, 1436 files written (37907877 bytes overall) [27283559 bytes received at 15853 bytes/sec], 16331376 bytes transferred using HTTP compression in 1273 files, ratio 28%, 6.6 requests per connection
+(169 errors, 715 warnings, 0 messages)
